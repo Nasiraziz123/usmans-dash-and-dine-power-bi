@@ -1,0 +1,61 @@
+ItemID,ItemName,Category,Size,UnitCost,SellingPrice,IsAvailable
+ITEM-001,Classic Zinger Burger,Burgers,Regular,230,450,Yes
+ITEM-002,Classic Zinger Burger,Burgers,Large,310,590,Yes
+ITEM-003,Mighty Double Zinger,Burgers,Large,390,750,Yes
+ITEM-004,Smoky Beef Smash Burger,Burgers,Regular,280,550,Yes
+ITEM-005,Smoky Beef Smash Burger,Burgers,Large,380,720,Yes
+ITEM-006,Jalapeno Cheese Burger,Burgers,Regular,250,490,Yes
+ITEM-007,Grilled Chicken Fillet Burger,Burgers,Regular,240,470,Yes
+ITEM-008,Crispy Chapli Fusion Burger,Burgers,Regular,260,520,Yes
+ITEM-009,BBQ Bacon Beef Burger,Burgers,Large,410,790,Yes
+ITEM-010,Peri Peri Chicken Burger,Burgers,Regular,255,500,Yes
+ITEM-011,Mini Slider Duo,Burgers,Regular,210,420,Yes
+ITEM-012,Truffle Mushroom Beef Burger,Burgers,Large,430,820,No
+ITEM-013,Chicken Tikka Pizza,Pizza,Regular,420,850,Yes
+ITEM-014,Chicken Tikka Pizza,Pizza,Medium,680,1350,Yes
+ITEM-015,Chicken Tikka Pizza,Pizza,Large,920,1850,Yes
+ITEM-016,Chicken Fajita Pizza,Pizza,Regular,430,870,Yes
+ITEM-017,Chicken Fajita Pizza,Pizza,Medium,690,1380,Yes
+ITEM-018,Chicken Fajita Pizza,Pizza,Large,940,1890,Yes
+ITEM-019,Peshawari Malai Boti Pizza,Pizza,Medium,740,1490,Yes
+ITEM-020,Peshawari Malai Boti Pizza,Pizza,Large,990,1990,Yes
+ITEM-021,Pepperoni Feast Pizza,Pizza,Medium,720,1450,Yes
+ITEM-022,Pepperoni Feast Pizza,Pizza,Large,960,1950,Yes
+ITEM-023,Crown Crust Special Pizza,Pizza,Large,1080,2190,Yes
+ITEM-024,Veggie Lovers Pizza,Pizza,Regular,380,780,No
+ITEM-025,Club Chicken Sandwich,Sandwiches,Regular,240,480,Yes
+ITEM-026,Club Chicken Sandwich,Sandwiches,Large,320,620,Yes
+ITEM-027,BBQ Tikka Panini,Sandwiches,Regular,260,510,Yes
+ITEM-028,Steak & Cheese Sub,Sandwiches,Large,370,720,Yes
+ITEM-029,Zinger Tortilla Wrap,Wraps,Regular,220,440,Yes
+ITEM-030,Zinger Tortilla Wrap,Wraps,Large,290,560,Yes
+ITEM-031,Arabic Shawarma Wrap,Wraps,Regular,190,380,Yes
+ITEM-032,Malai Boti Paratha Roll,Wraps,Regular,210,420,Yes
+ITEM-033,Spicy Garlic Mayo Roll,Wraps,Regular,180,360,Yes
+ITEM-034,Chipotle Chicken Wrap,Wraps,Medium,250,490,No
+ITEM-035,Crispy Fried Chicken (2 Pcs),Fried Chicken,Regular,240,480,Yes
+ITEM-036,Crispy Fried Chicken (4 Pcs),Fried Chicken,Medium,460,920,Yes
+ITEM-037,Crispy Fried Chicken Bucket (8 Pcs),Fried Chicken,Large,880,1750,Yes
+ITEM-038,Hot & Spicy Wings (6 Pcs),Fried Chicken,Regular,210,430,Yes
+ITEM-039,Hot & Spicy Wings (12 Pcs),Fried Chicken,Large,390,790,Yes
+ITEM-040,Honey Mustard Wings (8 Pcs),Fried Chicken,Medium,290,580,Yes
+ITEM-041,Chicken Nuggets (6 Pcs),Nuggets,Regular,170,350,Yes
+ITEM-042,Chicken Nuggets (12 Pcs),Nuggets,Large,310,620,Yes
+ITEM-043,Crispy Chicken Strips (5 Pcs),Fried Chicken,Regular,230,460,Yes
+ITEM-044,Popcorn Chicken Box,Nuggets,Medium,220,440,Yes
+ITEM-045,Classic Salted Fries,Fries,Regular,90,200,Yes
+ITEM-046,Classic Salted Fries,Fries,Large,140,300,Yes
+ITEM-047,Masala Spicy Fries,Fries,Regular,100,220,Yes
+ITEM-048,Loaded Cheese & Jalapeno Fries,Fries,Large,230,460,Yes
+ITEM-049,Garlic Mayo Dip Cup,Fries,Regular,35,80,Yes
+ITEM-050,Coleslaw Salad,Fries,Regular,55,130,Yes
+ITEM-051,Chocolate Lava Cake,Desserts,Regular,160,350,Yes
+ITEM-052,Fudge Brownie Sundae,Desserts,Regular,190,400,Yes
+ITEM-053,Caramel Cheesecake Cup,Desserts,Regular,210,430,No
+ITEM-054,Cola Soft Drink (345ml),Drinks,Regular,65,130,Yes
+ITEM-055,Cola Soft Drink (1.5L),Drinks,Large,140,260,Yes
+ITEM-056,Lemon Lime Drink (345ml),Drinks,Regular,65,130,Yes
+ITEM-057,Mint Margarita,Drinks,Regular,110,240,Yes
+ITEM-058,Oreo Chocolate Shake,Drinks,Medium,180,380,Yes
+ITEM-059,Mango Smoothie,Drinks,Medium,170,360,Yes
+ITEM-060,Mineral Water (500ml),Drinks,Regular,40,80,Yes
